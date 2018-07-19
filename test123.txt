@@ -1,0 +1,3 @@
+git Add -A
+git commit -m "adasasdasd"
+git push origin master
